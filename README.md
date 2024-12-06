@@ -22,7 +22,7 @@ He encontrado un error lingüístico en *EA Sports 2025* para PC, específicamen
 
 Para ilustrar el problema, he subido un video que muestra cómo se presenta el error en el juego. Puedes verlo en el siguiente enlace:
 
-[Ver Video del Bug](enlace-al-video)
+[Ver Video del Bug](https://github.com/CarlosBedoyalopez/BugsReports-EASports/blob/main/Bug%20Linguistico%20EA%20Sports.mp4)
 
 ## Esperado
 
