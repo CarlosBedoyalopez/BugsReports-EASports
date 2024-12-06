@@ -46,4 +46,4 @@ Gracias por tu atención a este reporte. Quedo a disposición para proporcionar 
 
 ---
 
-**Contacto**: [Tu nombre o nombre de usuario en GitHub]
+**Contacto**: carlosandresbedoya1999@gmail.com
