@@ -55,3 +55,55 @@ Gracias por tu atención a este reporte. Quedo a disposición para proporcionar 
 ---
 
 **Contacto**: carlosandresbedoya1999@gmail.com
+
+
+# ENGLISH COMMENT
+
+# Linguistic Bug Report on FC 2025 (PC)
+
+## Problem Description
+certain in-game texts. The bug affects language consistency and can hinder the player experience. This report details the bug and provides visual evidence through a video showing the problem.
+
+## Bug Details
+- **Platform:** PC (Windows)
+- **Game version:** FC 2025 1.0.0.0.0
+- **Bug Description:** The text that appears in the game interface, in the social network area has grammatical or translation errors that affect the understanding of the message.
+- **Affected text:** Messages of the social network posts in the DT career mode.
+  
+## How to Reproduce the Error
+1. Start FC 2025 on PC.
+2. Navigate to the main menu.
+3. Select DT career mode.
+4. Click on Continue DT Career.
+5. Display the social network on the right of the option menu.
+6. Click on Show comments.
+7. Observe the text with the linguistic error.
+8. Reproduce the behavior several times to confirm the occurrence of the bug.
+
+## Visual Evidence
+To illustrate the problem, I have uploaded a video showing how the bug is presented in the game. You can watch it at the following link:
+[Watch the video bug](https://github.com/CarlosBedoyalopez/BugsReports-EASports/blob/main/Bug%20Linguistico%20EA%20Sports.mp4)
+
+## Expected
+
+The text should appear in the language in which the player is playing, in this case in Spanish and without the special characters that appear at the end. Instead, a linguistic error appears that affects the clarity and comprehension of the message.
+
+## Impact
+
+This bug has a moderate impact, because although it does not affect the gameplay directly, it can generate confusion in the players who depend on the translations and texts of the game, leaving aside the quality of the video game.
+
+## Proposed Solution
+
+It would be ideal if the developers would review the translations and correct grammatical errors to improve the user experience. Ideally, a detailed review of all Spanish texts should be performed.
+
+## Additional Information
+
+- PC Specifications**: Windows 11
+- Report Date**: 06/12/2024
+- Game Version**: FC 2025 1.0.0.0.0
+
+Thank you for your attention to this report. I remain available to provide more details if needed.
+
+
+## BUG Image
+![WhatsApp Image 2024-12-05 at 9 51 25 PM](https://github.com/user-attachments/assets/167a91fd-bf6e-4a75-a574-7530cb17600a)
