@@ -15,7 +15,7 @@ He encontrado un error lingüístico en *FC 2025* para PC, específicamente en l
 
 1. Inicia *FC 2025* en PC.
 2. Navega al menú TODO.
-3. Selecciona el modo carrera de DT.
+3. Selecciona modo carrera de DT.
 4. Dar cliC en continuar carrera de DT.
 5. Visualizar la red social en la derecha de el option menu.
 6. Dar click en mostrar comentarios.
